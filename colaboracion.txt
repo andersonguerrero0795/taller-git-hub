@@ -1,1 +1,3 @@
-Actualizacion prioritaria desde la rama main
+HEAD
+Actualizacion prioritaria desde la rama main y
+Aporte de developer unificados
